@@ -63,7 +63,7 @@ a:hover svg path {
 }
 
 .container .countdown--timer {
-  padding: 150px 0;
+  padding: 140px 0 150px 0;
 }
 
 h1 {
@@ -158,7 +158,6 @@ h1 {
 
 @media only screen and (min-width:700px) {
   .container {
-    max-width: 698px;
     width: 100%;
     margin: 0 auto;
   }
